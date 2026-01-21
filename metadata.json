@@ -1,0 +1,7 @@
+{
+  "name": "FieldExpense Pro",
+  "description": "A secure offline receipt compiler and budget management tool for field agents. Features high-precision auto-crop scanning, local OCR processing, and professional liquidation report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
